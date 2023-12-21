@@ -1,7 +1,7 @@
 
 # VoiceGPT Assistant
 
-Jarvis AI Assistant is a Python-based voice-controlled assistant that can perform various tasks using speech recognition and the OpenAI GPT-3.5 model for conversational AI.
+VoiceGPT Assistant is a Python-based voice-controlled assistant that can perform various tasks using speech recognition and the OpenAI GPT-3.5 model for conversational AI.
 
 ## Description
 
