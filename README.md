@@ -1,6 +1,3 @@
-Sure, here's a README file you can create for your GitHub repository explaining your code:
-
----
 
 # Jarvis AI Assistant
 
